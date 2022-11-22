@@ -20,8 +20,11 @@ In diesem Projekt programmieren wir mithifle von Winforms ein "Schiffeversenken"
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| 1    | Muss                | Funktional      |  der Nutzer sollte seine Schiffe platzieren können |
+| 2    | Muss                | Funktional      | Der Nutzer sollte die Schiffe der Gegner abschiessen können |
+| 3    | Muss                | Funktional      | Bei einem fehlschuss sollte eine Rückmeldung gemacht werden |
+| 4    | Muss         | Funktional |Bei einem Treffer/versenken sollte eine Rückmeldung gemacht werden |
+| 5      
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
