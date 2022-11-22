@@ -27,7 +27,9 @@ In diesem Projekt programmieren wir mithifle von Winforms ein "Schiffeversenken"
 | 5    | Muss | Funktional | Zwischen Spieler 1 und 2 wird gewechselt |
 | 6 | Muss | Funktional |Der Gewinner und verlierer sollte ausgegeben werden |
 | 7 | kann | Qualität | Der Highscore wird gespeichert |
-|8 |    |     |        |
+|8 |    | Randbedingung    | Das Spiel wird in C# programmiert       |
+|9 |     | Randbedingung  | Das Spiel wird mit Winforms programmiert |
+
 
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
