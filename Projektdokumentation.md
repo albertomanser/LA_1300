@@ -85,19 +85,24 @@ In diesem Projekt programmieren wir mithifle von Winforms ein "Schiffeversenken"
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-|1.A|  | Manser | Boote platzieren | 60 min |
-|1.B|  | Manser | Startsequenz | 30 min |
-|2.A|  | Lutziger |Wechsel Spieler 1 & 2|35 min |
-|3.A|  | Koelewijn  |Schiessen & Rückmeldung | 40 min |
-|3.B|  | Koelewijn |Gewinner Verlierer und gebrauchte Zeit | 40 min | 
-|4.A|  | Lutziger |Fehleingaben abfangen|20 min |
-|5.A|  | Oestrich |Vorgegebene Schiffe anzeigen | 35 min |
-|6.A|  | Tanner |Spielerklärung & übersichtliches Spiel|30 min |
-|7.A|  | Oestrich |Gewinnersequenz & nochmal Spielen|25 min |
-|9.A| | Tanner | Nickname | 20 min|
-|10.A| |Manser, Koelewijn| User Stories||
-|10.B| | Oestrich | Testfälle | |
-|10.C| | Manser| Planen | | 
+| 1.A |    22.11.2022   |Manser & Koelewijn|       Informieren / Userstory       |      1        |
+| 1.B |    22.11.2022|    Oestrich|        Informieren / Testfälle      |       0.5        |
+| 1.C |    22.11.2022|     Lutziger|        Informieren / PAP     |       0.75        |
+| 2.A |    22.11.2022|      Manser & Koelewijn  |        Planung     |       0.45        |
+| 3.A |   22.11.2022|      Alle    |        Entscheidung|       1.5        |
+|4.A| 29.11.2022 | Manser | Boote platzieren | 1.5|
+|4.B|06.12.2022  | Manser | Startsequenz | 1|
+|5.A| 29.11.2022| Lutziger |Wechsel Spieler 1 & 2|1.5|
+|6.A|29.11.2022| Koelewijn  |Schiessen & Rückmeldung | 1.5|
+|6.B| 06.12.2022 | Koelewijn |Gewinner Verlierer und gebrauchte Zeit | 1.5| 
+|7.A| 13.12.2022  | Lutziger |Fehleingaben abfangen|1.5|
+|8.A| 29.11.2022 | Oestrich |Vorgegebene Schiffe anzeigen | 1|
+|9.A|  29.11.2022| Tanner |Spielerklärung & übersichtliches Spiel|1.5|
+|10.A|13.12.2022  | Oestrich |Gewinnersequenz & nochmal Spielen|1|
+|11.A| 06.12.2022 | Tanner | Nickname | 0.5|
+| 12.A |    13.12.2022|      Alle  |Ergänzungen des Programmierens|       5        |
+| 13.B |    20.12.2022|      Tanner   |        Testprotokoll   |       1        |
+| 14.A| 20.12.2022|      Alle    |        Lernbericht / Dokumentation   |       1.45       |
 
 Total: 
 
