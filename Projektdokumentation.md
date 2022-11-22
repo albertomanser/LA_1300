@@ -46,23 +46,29 @@ In diesem Projekt programmieren wir mithifle von Winforms ein "Schiffeversenken"
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  |   **Programm gestartet**         |    **Nichts**     |     Eingabefeld für Coordinaten, für die platzierung erscheint            |
 | 1.2  |   **Programm gestartet**  Platzierte Schiffe überschneiden sich       |    **Nichts**     |     "Die Schiffe dürfen sich nicht überschneiden" **Eingabefeld erscheint**
-| 2.1  | **Programm gestartet** Schiffe wurde platziert. Eigabefeld für die Coordinaten erscheint  |     Coordinatenfeld vom Gegner    |        **Nichts**       |
-| 3.1 | **Programm gestartet** Schiffe wurde platziert. Eigabefeld für die Coordinaten erscheint  |     Nichts besetztes Coordinatenfeld vom Gegner **Enter**   |         "Ziel verfehlt"          |
-| 4.1 | **Programm gestartet** Schiffe wurde platziert. Eigabefeld für die Coordinaten erscheint            |  Besetztes Coordinatenfeld vom Gegner **Enter**     |     "Ziel getroffen"              |
-| 4.2  |  **Programm gestartet** Coordinatern von gegnerischem Schiff wurde eingegeben    |   **Enter**    |       "Ziel wurde versänkt"            |
-| 5.1  | **Programm gestartet**  Nicht besetztes Coordinatenfeld wurde eingegebn          |   **Enter**    |   "Ziel verfehlt"  **Spieler wechsel**             |
-| 5.2  |  **Programm gestartet** Besetztes Coordinatenfeld wurde eingegebn                |   **Enter**    |  "Ziel getroffen"  **Spieler wechsel**                   |
-| 6.1  |   **Programm gestartet** Spieler 1 hat alle Schiffe vom Gegner versänkt      |  **Nichts**     |    "Spieler 1 hat alle Schiffe von Spieler 2 versänkt"|
-| 6.2  |   **Programm gestartet** Spieler 2 hat alle Schiffe vom Gegner versänkt      |  **Nichts**     |    "Spieler 2 hat alle Schiffe von Spieler 1 versänkt"|
+| 2.1  | **Programm gestartet** Schiffe wurde platziert. Eigabefeld für die Coordinaten erscheint.  |     Coordinatenfeld vom Gegner    |        **Nichts**       |
+| 3.1 | **Programm gestartet** Schiffe wurde platziert. Eigabefeld für die Coordinaten erscheint.  |     Nichts besetztes Coordinatenfeld vom Gegner **Enter**   |         "Ziel verfehlt"          |
+| 4.1 | **Programm gestartet** Schiffe wurde platziert. Eigabefeld für die Coordinaten erscheint.            |  Besetztes Coordinatenfeld vom Gegner **Enter**     |     "Ziel getroffen"              |
+| 4.2  |  **Programm gestartet** Coordinatern von gegnerischem Schiff wurde eingegeben.    |   **Enter**    |       "Ziel wurde versänkt"            |
+| 5.1  | **Programm gestartet**  Nicht besetztes Coordinatenfeld wurde eingegebn.          |   **Enter**    |   "Ziel verfehlt"  **Spieler wechsel**             |
+| 5.2  |  **Programm gestartet** Besetztes Coordinatenfeld wurde eingegebn.                |   **Enter**    |  "Ziel getroffen"  **Spieler wechsel**                   |
+| 6.1  |   **Programm gestartet** Spieler 1 hat alle Schiffe vom Gegner versänkt.      |  **Nichts**     |    "Spieler 1 hat alle Schiffe von Spieler 2 versänkt"|
+| 6.2  |   **Programm gestartet** Spieler 2 hat alle Schiffe vom Gegner versänkt.      |  **Nichts**     |    "Spieler 2 hat alle Schiffe von Spieler 1 versänkt"|
 | 7.1  |   **Programm gestartet** Spiel wurde beendet, es wurde ein Gewinner ermittelt.       | **Nichts**     |    Die gebrauchte Zeit wird ausgegeben         |
 | 8.1  |         |      |             |
 | 9.1  |         |      |             |
 | 10.1  |**Programm gestartet** Spiel wurde beendet, es wurde ein Gewinner ermittelt und die gebrauchte Zeit wurde ausgegeben.         | **Nichts**     |  "Möchten Sie noch einmal Spielen? y-n" **Eingabefeld erscheint** |
-|11.1 |  **Programm gestartet** Eigabefeld für die Coordinaten erscheint     |  Coordinaten, die nicht auf dem Spielfeld sind **Enter**    |   "Diese Coordinaten sind ausserhalb der Spielfelds"  |
-| 11.2  | **Programm gestartet** Eigabefeld für die Abfrage, ob man das Spiel wiedeholen möchte        |  2    |    "Ungültige Eingabe" Eingabefeld für die Abfrage erscheint.         |
-| 11.3  | **Programm gestartet** Eigabefeld für die Abfrage, ob man das Spiel wiedeholen möchte        |  Zwei    |    "Ungültige Eingabe" Eingabefeld für die Abfrage erscheint.         |
-| 12.1  |  **Programm gestartet** Die Schiffe werden am Rand angezeigt       |  **Nichts**    |   "Platzieren Sie Ihre Schiffe"          |
-| 13.1   |Programm wird gestartet|
+|11.1 |  **Programm gestartet** Eigabefeld für die Coordinaten erscheint.     |  Coordinaten, die nicht auf dem Spielfeld sind. **Enter**    |   "Diese Coordinaten sind ausserhalb der Spielfelds."  |
+| 11.2  | **Programm gestartet** Eigabefeld für die Abfrage, ob man das Spiel wiedeholen möchte.        |  2    |    "Ungültige Eingabe" Eingabefeld für die Abfrage erscheint.         |
+| 11.3  | **Programm gestartet** Eigabefeld für die Abfrage, ob man das Spiel wiedeholen möchte.        |  Zwei    |    "Ungültige Eingabe" Eingabefeld für die Abfrage erscheint.         |
+| 12.1  |  **Programm gestartet** Die Schiffe werden am Rand angezeigt.       |  **Nichts**    |   "Platzieren Sie Ihre Schiffe"          |
+| 13.1   |Programm wird gestartet **Startsequenz erscheint**|  **Nichts**    |  Start des Spiels          |
+| 14.1   |**Programm gestartet**|  **Nichts**    | Eine Anleitung des Spiels erscheint .        |
+| 15.1   |**Programm gestartet** Eingaben werden getätigt |  **Nichts**    | Das spiel bleibt übersichtlich.|
+| 16.1   |**Programm gestartet**  |  **Nichts**    |Eingabefeld für die Namen der Spieler erscheint.|
+| 17.1   |**Programm gestartet** Gewinner wurde ermittelt  |  **Nichts**    |Gewinnersequenz erscheint.|
+
+
 
 
 
