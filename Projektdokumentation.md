@@ -20,7 +20,7 @@ In diesem Projekt programmieren wir mithifle von Winforms ein "Schiffeversenken"
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    | Muss                | Funktional      |  ich als Nutzer erwarte, dass man seine Schiffe platzieren können |
+| 1    | Muss                | Funktional      |  ich als Nutzer erwarte, dass man seine Schiffe platzieren kann |
 | 2    | Muss                | Funktional      | ich als Nutzer erwarte, dass man die Schiffe der Gegner abschiessen können |
 | 3    | Muss                | Funktional      | Ich als Nutzer erwarte, dass bei einem fehlschuss eine Rückmeldung gemacht wird|
 | 4    | Muss         | Funktional |Ich als Nutzer erwarte, dass bei einem Treffer/versenken eine Rückmeldung gemacht wird |
@@ -29,8 +29,8 @@ In diesem Projekt programmieren wir mithifle von Winforms ein "Schiffeversenken"
 | 7 | kann | Qualität | Ich als Nutzer erwarte, dass die gebrauchte Zeit gespeichert wird  |
 |8 |    | Randbedingung    | Das Spiel wird in C# programmiert       |
 |9 |     | Randbedingung  | Das Spiel wird mit Winforms programmiert |
-| 10 | Muss | Funktional | Ich als Nutzer erwarte, dass das Programm mit Fehleingaben umgehen kann |
-| 11 | Kann |Qualität | Ich als Nutzer erwarte, dass ich am Ende gefragt werde ob ich Nochmal spiele will |
+| 10 | Kann |Qualität | Ich als Nutzer erwarte, dass ich am Ende gefragt werde ob ich Nochmal spiele will |
+| 11 | Muss | Funktional | Ich als Nutzer erwarte, dass das Programm mit Fehleingaben umgehen kann |
 | 12 | Muss | Funktional | Ich als Nutzer erwarte, dass 10 verschiedene Schiffe mit vorgegebener Form zur verfügung stehen |
 |13| Kann |Qualität| Ich als Nutzer erwarte, dass ich eine Startsequenz erhalte, wenn ich das Programm starte.|
 |14| Kann|Qualität| Ich als Nutzer erwarte, dass ich eine Spielerklärung erhalte, wenn ich das Programm starte.|
@@ -44,10 +44,11 @@ In diesem Projekt programmieren wir mithifle von Winforms ein "Schiffeversenken"
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |   **Programm gestartet**         |    **Nichts**     |     Eingabefeld für die Platzierung der Schiffe erscheint.              |
-| 2.1  | **Programm gestartet** Eigabefeld für die Coordinaten erscheint  |     Coordinatenfeld vom Gegner    |        **Nichts**       |
-| 3.1 | **Programm gestartet** Eigabefeld für die Coordinaten erscheint  |     Nichts besetztes Coordinatenfeld vom Gegner **Enter**   |         "Ziel verfehlt"          |
-| 4.1 | **Programm gestartet** Eigabefeld für die Coordinaten erscheint            |  Besetztes Coordinatenfeld vom Gegner **Enter**     |     "Ziel getroffen"              |
+| 1.1  |   **Programm gestartet**         |    **Nichts**     |     Eingabefeld für Coordinaten, für die platzierung erscheint            |
+| 1.2  |   **Programm gestartet**  Platzierte Schiffe überschneiden sich       |    **Nichts**     |     "Die Schiffe dürfen sich nicht überschneiden" **Eingabefeld erscheint**
+| 2.1  | **Programm gestartet** Schiffe wurde platziert. Eigabefeld für die Coordinaten erscheint  |     Coordinatenfeld vom Gegner    |        **Nichts**       |
+| 3.1 | **Programm gestartet** Schiffe wurde platziert. Eigabefeld für die Coordinaten erscheint  |     Nichts besetztes Coordinatenfeld vom Gegner **Enter**   |         "Ziel verfehlt"          |
+| 4.1 | **Programm gestartet** Schiffe wurde platziert. Eigabefeld für die Coordinaten erscheint            |  Besetztes Coordinatenfeld vom Gegner **Enter**     |     "Ziel getroffen"              |
 | 4.2  |  **Programm gestartet** Coordinatern von gegnerischem Schiff wurde eingegeben    |   **Enter**    |       "Ziel wurde versänkt"            |
 | 5.1  | **Programm gestartet**  Nicht besetztes Coordinatenfeld wurde eingegebn          |   **Enter**    |   "Ziel verfehlt"  **Spieler wechsel**             |
 | 5.2  |  **Programm gestartet** Besetztes Coordinatenfeld wurde eingegebn                |   **Enter**    |  "Ziel getroffen"  **Spieler wechsel**                   |
@@ -56,7 +57,12 @@ In diesem Projekt programmieren wir mithifle von Winforms ein "Schiffeversenken"
 | 7.1  |   **Programm gestartet** Spiel wurde beendet, es wurde ein Gewinner ermittelt.       | **Nichts**     |    Die gebrauchte Zeit wird ausgegeben         |
 | 8.1  |         |      |             |
 | 9.1  |         |      |             |
-|10.1 |  **Programm gestartet** Eigabefeld für die Coordinaten erscheint     |  Coordinaten, die nicht auf dem Spielfeld sind **Enter**    |   "Diese Coordinaten sind ausserhalb der Spielfelds"          |
+| 10.1  |**Programm gestartet** Spiel wurde beendet, es wurde ein Gewinner ermittelt und die gebrauchte Zeit wurde ausgegeben.         | **Nichts**     |  "Möchten Sie noch einmal Spielen? y-n" **Eingabefeld erscheint** |
+|11.1 |  **Programm gestartet** Eigabefeld für die Coordinaten erscheint     |  Coordinaten, die nicht auf dem Spielfeld sind **Enter**    |   "Diese Coordinaten sind ausserhalb der Spielfelds"  |
+| 11.2  | **Programm gestartet** Eigabefeld für die Abfrage, ob man das Spiel wiedeholen möchte        |  2    |    "Ungültige Eingabe" Eingabefeld für die Abfrage erscheint.         |
+| 11.3  | **Programm gestartet** Eigabefeld für die Abfrage, ob man das Spiel wiedeholen möchte        |  Zwei    |    "Ungültige Eingabe" Eingabefeld für die Abfrage erscheint.         |
+| 12.1  |  **Programm gestartet** Die Schiffe werden am Rand angezeigt       |  **Nichts**    |   "Platzieren Sie Ihre Schiffe"          |
+| 13.1   |Programm wird gestartet|
 
 
 
