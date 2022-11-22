@@ -26,7 +26,7 @@ In diesem Projekt programmieren wir mithifle von Winforms ein "Schiffeversenken"
 | 4    | Muss         | Funktional |Ich als Nutzer erwarte, dass bei einem Treffer/versenken eine Rückmeldung gemacht wird |
 | 5    | Muss | Funktional | Ich als Nutzer erwarte, dass Zwischen Spieler 1 und 2 gewechselt wird  |
 | 6 | Muss | Funktional | Ich als Nutzer erwarte, dass der Gewinner und verlierer ausgegeben wird |
-| 7 | kann | Qualität | Ich als Nutzer erwarte, dass der Highscore gespeichert wird  |
+| 7 | kann | Qualität | Ich als Nutzer erwarte, dass die gebrauchte Zeit gespeichert wird  |
 |8 |    | Randbedingung    | Das Spiel wird in C# programmiert       |
 |9 |     | Randbedingung  | Das Spiel wird mit Winforms programmiert |
 | 10 | Muss | Funktional | Ich als Nutzer erwarte, dass das Programm mit Fehleingaben umgehen kann |
@@ -46,13 +46,17 @@ In diesem Projekt programmieren wir mithifle von Winforms ein "Schiffeversenken"
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  |   **Programm gestartet**         |    **Nichts**     |     Eingabefeld für die Platzierung der Schiffe erscheint.              |
 | 2.1  | **Programm gestartet** Eigabefeld für die Coordinaten erscheint  |     Coordinatenfeld vom Gegner    |        **Nichts**       |
-| 3.1 | **Programm gestartet** Eigabefeld für die Coordinaten erscheint  |     Nichts besetztes Coordinatenfeld vom Gegner **Enter**   |         "Nicht getroffen"          |
+| 3.1 | **Programm gestartet** Eigabefeld für die Coordinaten erscheint  |     Nichts besetztes Coordinatenfeld vom Gegner **Enter**   |         "Ziel verfehlt"          |
 | 4.1 | **Programm gestartet** Eigabefeld für die Coordinaten erscheint            |  Besetztes Coordinatenfeld vom Gegner **Enter**     |     "Ziel getroffen"              |
 | 4.2  |  **Programm gestartet** Coordinatern von gegnerischem Schiff wurde eingegeben    |   **Enter**    |       "Ziel wurde versänkt"            |
-| 5.1  | **Programm gestartet**  Coordinatern von gegnerischem Schiff wurde eingegeben           |         |                   |
-| ...  |              |         |                   |
-
-
+| 5.1  | **Programm gestartet**  Nicht besetztes Coordinatenfeld wurde eingegebn          |   **Enter**    |   "Ziel verfehlt"  **Spieler wechsel**             |
+| 5.2  |  **Programm gestartet** Besetztes Coordinatenfeld wurde eingegebn                |   **Enter**    |  "Ziel getroffen"  **Spieler wechsel**                   |
+| 6.1  |   **Programm gestartet** Spieler 1 hat alle Schiffe vom Gegner versänkt      |  **Nichts**     |    "Spieler 1 hat alle Schiffe von Spieler 2 versänkt"|
+| 6.2  |   **Programm gestartet** Spieler 2 hat alle Schiffe vom Gegner versänkt      |  **Nichts**     |    "Spieler 2 hat alle Schiffe von Spieler 1 versänkt"|
+| 7.1  |   **Programm gestartet** Spiel wurde beendet, es wurde ein Gewinner ermittelt.       | **Nichts**     |    Die gebrauchte Zeit wird ausgegeben         |
+| 8.1  |         |      |             |
+| 9.1  |         |      |             |
+|10.1 |  **Programm gestartet** Eigabefeld für die Coordinaten erscheint     |  Coordinaten, die nicht auf dem Spielfeld sind **Enter**    |   "Diese Coordinaten sind ausserhalb der Spielfelds"          |
 
 
 
