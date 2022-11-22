@@ -32,9 +32,9 @@ In diesem Projekt programmieren wir mithifle von Winforms ein "Schiffeversenken"
 | 10 | Muss | Funktional | Ich als Nutzer erwarte, dass das Programm mit Fehleingaben umgehen kann |
 | 11 | Kann |Qualität | Ich als Nutzer erwarte, dass ich am Ende gefragt werde ob ich Nochmal spiele will |
 | 12 | Muss | Funktional | Ich als Nutzer erwarte, dass 10 verschiedene Schiffe mit vorgegebener Form zur verfügung stehen |
-|13| Kann |Qualität| Als ein Nutzer möchte ich eine Startsequenz erhalten, wenn ich das Programm starte.|
-|14| Kann|Qualität| Als ein Nutzer möchte ich eine Spielerklärung erhalten, wenn ich das Programm starte.|
-|15| Kann|Qualität| Als ein Nutzer möchte ich ein übersichtliches Spiel haben.|
+|13| Kann |Qualität| Ich als Nutzer erwarte, dass ich eine Startsequenz erhalte, wenn ich das Programm starte.|
+|14| Kann|Qualität| Ich als Nutzer erwarte, dass ich eine Spielerklärung erhalte, wenn ich das Programm starte.|
+|15| Kann|Qualität| Ich als Nutzer erwarte, dass ich ein übersichtliches Spiel haben.|
 
 
 
