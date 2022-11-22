@@ -35,7 +35,8 @@ In diesem Projekt programmieren wir mithifle von Winforms ein "Schiffeversenken"
 |13| Kann |Qualität| Ich als Nutzer erwarte, dass ich eine Startsequenz erhalte, wenn ich das Programm starte.|
 |14| Kann|Qualität| Ich als Nutzer erwarte, dass ich eine Spielerklärung erhalte, wenn ich das Programm starte.|
 |15| Kann|Qualität| Ich als Nutzer erwarte, dass ich ein übersichtliches Spiel haben.|
-
+|16| Kann |Qualität | Ich als Nutzer erwarte, dass ich einen Nickname eingeben kann|
+|17| Kann |Qualität |Ich als Nutzer erwarte, dass es einen Gewinnersequenz gibt|
 
 
 
