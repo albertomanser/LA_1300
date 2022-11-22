@@ -22,7 +22,7 @@ In diesem Projekt programmieren wir mithifle von Winforms ein "Schiffeversenken"
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    | Muss                | Funktional      |  ich als Nutzer erwarte, dass man seine Schiffe platzieren können |
 | 2    | Muss                | Funktional      | ich als Nutzer erwarte, dass man die Schiffe der Gegner abschiessen können |
-| 3    | Muss                | Funktional      | Ich als Nutzer erwarte, dass bei einem fehlschuss eine Rückmeldung gemacht wird$|
+| 3    | Muss                | Funktional      | Ich als Nutzer erwarte, dass bei einem fehlschuss eine Rückmeldung gemacht wird|
 | 4    | Muss         | Funktional |Ich als Nutzer erwarte, dass bei einem Treffer/versenken eine Rückmeldung gemacht wird |
 | 5    | Muss | Funktional | Ich als Nutzer erwarte, dass Zwischen Spieler 1 und 2 gewechselt wird  |
 | 6 | Muss | Funktional | Ich als Nutzer erwarte, dass der Gewinner und verlierer ausgegeben wird |
@@ -44,8 +44,15 @@ In diesem Projekt programmieren wir mithifle von Winforms ein "Schiffeversenken"
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
+| 1.1  |   **Programm gestartet**         |    **Nichts**     |     Eingabefeld für die Platzierung der Schiffe erscheint.              |
+| 2.1  | **Programm gestartet** Eigabefeld für die Coordinaten erscheint **Enter**  |     Coordinatenfeld vom Gegner   |        **Nichts**       |
+| 3.1 | **Programm gestartet** Eigabefeld für die Coordinaten erscheint **Enter**  |     Nichts besetztes Coordinatenfeld vom Gegner    |         "Nicht getroffen"          |
+| 4.1 | **Programm gestartet** Eigabefeld für die Coordinaten erscheint **Enter**           |  Besetztes Coordinatenfeld vom Gegner      |     "Ziel getroffen"              |
+| 4.2  |  **Programm gestartet** Coordinatern von gegnerischem Schiff wurde eingegeben **Enter**   |   Schiff vom Gegner wurde versänkt     |       "Ziel wurde versänkt"            |
+| 5.1  | **Programm gestartet**             |         |                   |
 | ...  |              |         |                   |
+
+
 
 
 
@@ -58,6 +65,11 @@ In diesem Projekt programmieren wir mithifle von Winforms ein "Schiffeversenken"
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A  |       |           |              |               |
+| ...  |       |           |              |               |
+| ...  |       |           |              |               |
+| ...  |       |           |              |               |
+| ...  |       |           |              |               |
+| ...  |       |           |              |               |
 | ...  |       |           |              |               |
 
 Total: 
