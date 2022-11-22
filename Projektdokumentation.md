@@ -1,6 +1,6 @@
 # Projekt-Dokumentation
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
+
 
 Gruppe Candy Manser, Tanner, Lutziger, Koelew., Oestrich
 
@@ -13,7 +13,7 @@ Gruppe Candy Manser, Tanner, Lutziger, Koelew., Oestrich
 ## 1 Informieren
 
 ### 1.1 Ihr Projekt
-
+In diesem Projekt programmieren wir mithifle von Winforms ein "Schiffeversenken" Spiel
 
 
 ### 1.2 User Stories
