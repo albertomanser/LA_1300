@@ -81,15 +81,18 @@ In diesem Projekt programmieren wir mithifle von Winforms ein "Schiffeversenken"
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
 |1.A|  | Manser | Boote platzieren | 60 min |
-|2.A|  | Manser | Startsequenz | 30 min |
-|3.A|  | Lutziger |Wechsel Spieler 1 & 2|35 min |
-|4.A|  | Koelewijn  |Schiessen & Rückmeldung | 40 min |
-|5.A|  | Koelewijn |Gewinner Verlierer und gebrauchte Zeit | 40 min | 
-|6.A|  | Lutziger |Fehleingaben abfangen|20 min |
-|7.A|  | Oestrich |Vorgegebene Schiffe anzeigen | 35 min |
-|8.A|  | Tanner |Spielerklärung & übersichtliches Spiel|30 min |
-|9.A|  | Oestrich |Gewinnersequenz & nochmal Spielen|25 min |
-|10.A| | Tanner | Nickname | 20 min|
+|1.B|  | Manser | Startsequenz | 30 min |
+|2.A|  | Lutziger |Wechsel Spieler 1 & 2|35 min |
+|3.A|  | Koelewijn  |Schiessen & Rückmeldung | 40 min |
+|3.B|  | Koelewijn |Gewinner Verlierer und gebrauchte Zeit | 40 min | 
+|4.A|  | Lutziger |Fehleingaben abfangen|20 min |
+|5.A|  | Oestrich |Vorgegebene Schiffe anzeigen | 35 min |
+|6.A|  | Tanner |Spielerklärung & übersichtliches Spiel|30 min |
+|7.A|  | Oestrich |Gewinnersequenz & nochmal Spielen|25 min |
+|9.A| | Tanner | Nickname | 20 min|
+|10.A| |Manser, Koelewijn| User Stories||
+|10.B| | Oestrich | Testfälle | |
+|10.C| | Manser| Planen | | 
 
 Total: 
 
