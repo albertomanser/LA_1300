@@ -45,11 +45,11 @@ In diesem Projekt programmieren wir mithifle von Winforms ein "Schiffeversenken"
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  |   **Programm gestartet**         |    **Nichts**     |     Eingabefeld für die Platzierung der Schiffe erscheint.              |
-| 2.1  | **Programm gestartet** Eigabefeld für die Coordinaten erscheint **Enter**  |     Coordinatenfeld vom Gegner   |        **Nichts**       |
-| 3.1 | **Programm gestartet** Eigabefeld für die Coordinaten erscheint **Enter**  |     Nichts besetztes Coordinatenfeld vom Gegner    |         "Nicht getroffen"          |
-| 4.1 | **Programm gestartet** Eigabefeld für die Coordinaten erscheint **Enter**           |  Besetztes Coordinatenfeld vom Gegner      |     "Ziel getroffen"              |
-| 4.2  |  **Programm gestartet** Coordinatern von gegnerischem Schiff wurde eingegeben **Enter**   |   Schiff vom Gegner wurde versänkt     |       "Ziel wurde versänkt"            |
-| 5.1  | **Programm gestartet**             |         |                   |
+| 2.1  | **Programm gestartet** Eigabefeld für die Coordinaten erscheint  |     Coordinatenfeld vom Gegner    |        **Nichts**       |
+| 3.1 | **Programm gestartet** Eigabefeld für die Coordinaten erscheint  |     Nichts besetztes Coordinatenfeld vom Gegner **Enter**   |         "Nicht getroffen"          |
+| 4.1 | **Programm gestartet** Eigabefeld für die Coordinaten erscheint            |  Besetztes Coordinatenfeld vom Gegner **Enter**     |     "Ziel getroffen"              |
+| 4.2  |  **Programm gestartet** Coordinatern von gegnerischem Schiff wurde eingegeben    |   **Enter**    |       "Ziel wurde versänkt"            |
+| 5.1  | **Programm gestartet**  Coordinatern von gegnerischem Schiff wurde eingegeben           |         |                   |
 | ...  |              |         |                   |
 
 
