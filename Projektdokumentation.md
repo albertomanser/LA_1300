@@ -20,15 +20,18 @@ In diesem Projekt programmieren wir mithifle von Winforms ein "Schiffeversenken"
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    | Muss                | Funktional      |  der Nutzer sollte seine Schiffe platzieren können |
-| 2    | Muss                | Funktional      | Der Nutzer sollte die Schiffe der Gegner abschiessen können |
-| 3    | Muss                | Funktional      | Bei einem fehlschuss sollte eine Rückmeldung gemacht werden |
-| 4    | Muss         | Funktional |Bei einem Treffer/versenken sollte eine Rückmeldung gemacht werden |
-| 5    | Muss | Funktional | Zwischen Spieler 1 und 2 wird gewechselt |
-| 6 | Muss | Funktional |Der Gewinner und verlierer sollte ausgegeben werden |
-| 7 | kann | Qualität | Der Highscore wird gespeichert |
+| 1    | Muss                | Funktional      |  ich als Nutzer erwarte, dass man seine Schiffe platzieren können |
+| 2    | Muss                | Funktional      | ich als Nutzer erwarte, dass man die Schiffe der Gegner abschiessen können |
+| 3    | Muss                | Funktional      | Ich als Nutzer erwarte, dass bei einem fehlschuss eine Rückmeldung gemacht wird$|
+| 4    | Muss         | Funktional |Ich als Nutzer erwarte, dass bei einem Treffer/versenken eine Rückmeldung gemacht wird |
+| 5    | Muss | Funktional | Ich als Nutzer erwarte, dass Zwischen Spieler 1 und 2 gewechselt wird  |
+| 6 | Muss | Funktional | Ich als Nutzer erwarte, dass der Gewinner und verlierer ausgegeben wird |
+| 7 | kann | Qualität | Ich als Nutzer erwarte, dass der Highscore gespeichert wird  |
 |8 |    | Randbedingung    | Das Spiel wird in C# programmiert       |
 |9 |     | Randbedingung  | Das Spiel wird mit Winforms programmiert |
+| 10 | Muss | Funktional | Ich als Nutzer erwarte, dass das Programm mit Fehleingaben umgehen kann |
+| 11 | Kann |Qualität | Ich als Nutzer erwarte, dass ich am Ende gefragt werde ob ich Nochmal spiele will |
+| 12 | Muss | Funktional | Ich als Nutzer erwarte, dass 10 verschiedene Schiffe mit vorgegebener Form zur verfügung stehen |
 
 
 
