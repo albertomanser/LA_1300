@@ -21,22 +21,22 @@ In diesem Projekt programmieren wir mithifle von Winforms ein "Schiffeversenken"
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    | Muss                | Funktional      |  ich als Nutzer erwarte, dass man seine Schiffe platzieren kann |
-| 2    | Muss                | Funktional      | ich als Nutzer erwarte, dass man die Schiffe der Gegner abschiessen können |
-| 3    | Muss                | Funktional      | Ich als Nutzer erwarte, dass bei einem fehlschuss eine Rückmeldung gemacht wird|
-| 4    | Muss         | Funktional |Ich als Nutzer erwarte, dass bei einem Treffer/versenken eine Rückmeldung gemacht wird |
-| 5    | Muss | Funktional | Ich als Nutzer erwarte, dass Zwischen Spieler 1 und 2 gewechselt wird  |
-| 6 | Muss | Funktional | Ich als Nutzer erwarte, dass der Gewinner und verlierer ausgegeben wird |
-| 7 | kann | Qualität | Ich als Nutzer erwarte, dass die gebrauchte Zeit gespeichert wird  |
-|8 |    | Randbedingung    | Das Spiel wird in C# programmiert       |
+| 2    | Muss                | Funktional      | ich als Spieler erwarte, dass man die Schiffe der Gegner abschiessen können |
+| 3    | Muss                | Funktional      | Ich als Spieler erwarte, dass bei einem fehlschuss eine Rückmeldung gemacht wird|
+| 4    | Muss         | Funktional |Ich als Spieler erwarte, dass bei einem Treffer/versenken eine Rückmeldung gemacht wird |
+| 5    | Muss | Funktional | Ich als Spieler erwarte, dass Zwischen Spieler 1 und 2 gewechselt wird  |
+| 6 | Muss | Funktional | Ich als Spieler erwarte, dass der Gewinner und verlierer ausgegeben wird |
+| 7 | kann | Qualität | Ich als Spieler erwarte, dass die gebrauchte Zeit gespeichert wird  |
+|8 |    | Randbedingung    | Das Spiel wird in C# programmiert   |
 |9 |     | Randbedingung  | Das Spiel wird mit Winforms programmiert |
-| 10 | Kann |Qualität | Ich als Nutzer erwarte, dass ich am Ende gefragt werde ob ich Nochmal spiele will |
-| 11 | Muss | Funktional | Ich als Nutzer erwarte, dass das Programm mit Fehleingaben umgehen kann |
-| 12 | Muss | Funktional | Ich als Nutzer erwarte, dass 10 verschiedene Schiffe mit vorgegebener Form zur verfügung stehen |
-|13| Kann |Qualität| Ich als Nutzer erwarte, dass ich eine Startsequenz erhalte, wenn ich das Programm starte.|
-|14| Kann|Qualität| Ich als Nutzer erwarte, dass ich eine Spielerklärung erhalte, wenn ich das Programm starte.|
-|15| Kann|Qualität| Ich als Nutzer erwarte, dass ich ein übersichtliches Spiel haben.|
-|16| Kann |Qualität | Ich als Nutzer erwarte, dass ich einen Nickname eingeben kann|
-|17| Kann |Qualität |Ich als Nutzer erwarte, dass es einen Gewinnersequenz gibt|
+| 10 | Kann |Qualität | Ich als Spieler erwarte, dass ich am Ende gefragt werde ob ich Nochmal spiele will |
+| 11 | Muss | Funktional | Ich als Spieler erwarte, dass das Programm mit Fehleingaben umgehen kann |
+| 12 | Muss | Funktional | Ich als Spieler erwarte, dass 10 verschiedene Schiffe mit vorgegebener Form zur verfügung stehen |
+|13| Kann |Qualität| Ich als Spieler erwarte, dass ich eine Startsequenz erhalte, wenn ich das Programm starte.|
+|14| Kann|Qualität| Ich als Spieler erwarte, dass ich eine Spielerklärung erhalte, wenn ich das Programm starte.|
+|15| Kann|Qualität| Ich als Spieler erwarte, dass ich ein übersichtliches Spiel haben.|
+|16| Kann |Qualität | Ich als Spieler erwarte, dass ich einen Nickname eingeben kann|
+|17| Kann |Qualität |Ich als Spieler erwarte, dass es einen Gewinnersequenz gibt|
 
 
 
