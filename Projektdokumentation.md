@@ -20,7 +20,7 @@ In diesem Projekt programmieren wir mithifle von Winforms ein "Schiffeversenken"
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    | Muss                | Funktional      |  ich als Nutzer erwarte, dass man seine Schiffe platzieren kann |
+| 1    | Muss                | Funktional      |  ich als Spieler erwarte, dass man seine Schiffe platzieren kann |
 | 2    | Muss                | Funktional      | ich als Spieler erwarte, dass man die Schiffe der Gegner abschiessen können |
 | 3    | Muss                | Funktional      | Ich als Spieler erwarte, dass bei einem fehlschuss eine Rückmeldung gemacht wird|
 | 4    | Muss         | Funktional |Ich als Spieler erwarte, dass bei einem Treffer/versenken eine Rückmeldung gemacht wird |
