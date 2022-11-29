@@ -7,7 +7,7 @@ Gruppe Candy Manser, Tanner, Lutziger, Koelewijn, Oestrich
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 | 22.11.2022 | 0.0.1   | Informieren und Planen |
-|       | ...     |                                                              |
+| 22.11.2022      | 0.0.2     |  Planen und realisieren                                                            |
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
@@ -116,8 +116,20 @@ Total:
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 1.A  | 22.11.2022      | Manser & Koelewijn          | 1               | 0.5                |
+| 1.B | 22.11.2022      |Oestrich    1.5 | 0.5              | 0.75                  |
+| 1.C | 22.11.2022 | Lutziger | 0.75 | 0.5 |
+| 2.A | 22.11.2022 | Manser & Koelewijn | 0.45 | 0.5 |
+| 3.A | 22.11.2022 | Alle | 1.5 | 1 |
+| 4.B  | 29.11.2022   | Manser    | 1   | 1.5    |
+| 8.A  | 29.11.2022   | Oestrich   |  1   | 0.5   |
+| 9.A  | 29.11.2022  | Tanner    | 1.5   | 1   |
+| 11.A   |29.11.2022   |Tanner    | 0.5   | 0.5    |
+|   |   |    |   |    |
+|   |   |    |   |    |
+|   |   |    |   |    |
+
+
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
