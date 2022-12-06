@@ -20,23 +20,21 @@ In diesem Projekt programmieren wir mithifle von Winforms ein "Schiffeversenken"
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    | Muss                | Funktional      |  ich als Spieler erwarte, dass man seine Schiffe platzieren kann |
-| 2    | Muss                | Funktional      | ich als Spieler erwarte, dass man die Schiffe der Gegner abschiessen können |
-| 3    | Muss                | Funktional      | Ich als Spieler erwarte, dass bei einem fehlschuss eine Rückmeldung gemacht wird|
-| 4    | Muss         | Funktional |Ich als Spieler erwarte, dass bei einem Treffer/versenken eine Rückmeldung gemacht wird |
-| 5    | Muss | Funktional | Ich als Spieler erwarte, dass Zwischen Spieler 1 und 2 gewechselt wird  |
-| 6 | Muss | Funktional | Ich als Spieler erwarte, dass der Gewinner und verlierer ausgegeben wird |
-| 7 | kann | Qualität | Ich als Spieler erwarte, dass die gebrauchte Zeit gespeichert wird  |
-|8 |    | Randbedingung    | Das Spiel wird in C# programmiert   |
-|9 |     | Randbedingung  | Das Spiel wird mit Winforms programmiert |
-| 10 | Kann |Qualität | Ich als Spieler erwarte, dass ich am Ende gefragt werde ob ich Nochmal spiele will |
-| 11 | Muss | Funktional | Ich als Spieler erwarte, dass das Programm mit Fehleingaben umgehen kann |
-| 12 | Muss | Funktional | Ich als Spieler erwarte, dass 10 verschiedene Schiffe mit vorgegebener Form zur verfügung stehen |
-|13| Kann |Qualität| Ich als Spieler erwarte, dass ich eine Startsequenz erhalte, wenn ich das Programm starte.|
-|14| Kann|Qualität| Ich als Spieler erwarte, dass ich eine Spielerklärung erhalte, wenn ich das Programm starte.|
-|15| Kann|Qualität| Ich als Spieler erwarte, dass ich ein übersichtliches Spiel haben.|
-|16| Kann |Qualität | Ich als Spieler erwarte, dass ich einen Nickname eingeben kann|
-|17| Kann |Qualität |Ich als Spieler erwarte, dass es einen Gewinnersequenz gibt|
+| 1    | Muss                | Funktional      |  ich als Spieler erwarte, dass man seine Schiffe platzieren kann. |
+| 2    | Muss                | Funktional      | ich als Spieler erwarte, dass man die Schiffe der Gegner abschiessen kann. |
+| 3    | Muss                | Funktional      | Ich als Spieler erwarte, dass bei einem fehlschuss eine Rückmeldung gesendet wird.|
+| 4    | Muss         | Funktional |Ich als Spieler erwarte, dass bei einem Treffer/versenken eine Rückmeldung gesendet wird. |
+| 5    | Muss | Funktional | Ich als Spieler erwarte, dass Zwischen Spieler 1 und 2 automatisch gewechselt wird.  |
+| 6 | Muss | Funktional | Ich als Spieler erwarte, dass der Gewinner und der verlierer ausgegeben wird am ende der Partie. |
+| 7 | kann | Qualität | Ich als Spieler erwarte, dass die gebrauchte Zeit gespeichert und ausgegeben wird.  |
+| 8 | Kann |Qualität | Ich als Spieler erwarte, dass ich am Ende gefragt werde ob ich Nochmal spiele will |
+| 9 | Muss | Funktional | Ich als Spieler erwarte, dass das Programm mit Fehleingaben umgehen kann |
+| 10 | Muss | Funktional | Ich als Spieler erwarte, dass 10 verschiedene Schiffe mit vorgegebener Form zur verfügung stehen |
+|11| Kann |Qualität| Ich als Spieler erwarte, dass ich eine Startsequenz erhalte, wenn ich das Programm starte.|
+|12| Kann|Qualität| Ich als Spieler erwarte, dass ich eine Spielerklärung erhalte, wenn ich das Programm starte.|
+|13| Kann|Qualität| Ich als Spieler erwarte, dass ich ein übersichtliches Spiel haben.|
+|14| Kann |Qualität | Ich als Spieler erwarte, dass ich einen Nickname eingeben kann|
+|15| Kann |Qualität |Ich als Spieler erwarte, dass es einen Gewinnersequenz gibt|
 
 
 
@@ -55,18 +53,16 @@ In diesem Projekt programmieren wir mithifle von Winforms ein "Schiffeversenken"
 | 6.1  |   **Programm gestartet** Spieler 1 hat alle Schiffe vom Gegner versänkt.      |  **Nichts**     |    "Spieler 1 hat alle Schiffe von Spieler 2 versänkt"|
 | 6.2  |   **Programm gestartet** Spieler 2 hat alle Schiffe vom Gegner versänkt.      |  **Nichts**     |    "Spieler 2 hat alle Schiffe von Spieler 1 versänkt"|
 | 7.1  |   **Programm gestartet** Spiel wurde beendet, es wurde ein Gewinner ermittelt.       | **Nichts**     |    Die gebrauchte Zeit wird ausgegeben         |
-| 8.1  |         |      |             |
-| 9.1  |         |      |             |
-| 10.1  |**Programm gestartet** Spiel wurde beendet, es wurde ein Gewinner ermittelt und die gebrauchte Zeit wurde ausgegeben.         | **Nichts**     |  "Möchten Sie noch einmal Spielen? y-n" **Eingabefeld erscheint** |
-|11.1 |  **Programm gestartet** Eigabefeld für die Coordinaten erscheint.     |  Coordinaten, die nicht auf dem Spielfeld sind. **Enter**    |   "Diese Coordinaten sind ausserhalb der Spielfelds."  |
-| 11.2  | **Programm gestartet** Eigabefeld für die Abfrage, ob man das Spiel wiedeholen möchte.        |  2    |    "Ungültige Eingabe" Eingabefeld für die Abfrage erscheint.         |
-| 11.3  | **Programm gestartet** Eigabefeld für die Abfrage, ob man das Spiel wiedeholen möchte.        |  Zwei    |    "Ungültige Eingabe" Eingabefeld für die Abfrage erscheint.         |
-| 12.1  |  **Programm gestartet** Die Schiffe werden am Rand angezeigt.       |  **Nichts**    |   "Platzieren Sie Ihre Schiffe"          |
-| 13.1   |Programm wird gestartet **Startsequenz erscheint**|  **Nichts**    |  Start des Spiels          |
-| 14.1   |**Programm gestartet**|  **Nichts**    | Eine Anleitung des Spiels erscheint .        |
-| 15.1   |**Programm gestartet** Eingaben werden getätigt |  **Nichts**    | Das spiel bleibt übersichtlich.|
-| 16.1   |**Programm gestartet**  |  **Nichts**    |Eingabefeld für die Namen der Spieler erscheint.|
-| 17.1   |**Programm gestartet** Gewinner wurde ermittelt  |  **Nichts**    |Gewinnersequenz erscheint.|
+| 8.1  |**Programm gestartet** Spiel wurde beendet, es wurde ein Gewinner ermittelt und die gebrauchte Zeit wurde ausgegeben.         | **Nichts**     |  "Möchten Sie noch einmal Spielen? y-n" **Eingabefeld erscheint** |
+|9.1 |  **Programm gestartet** Eigabefeld für die Coordinaten erscheint.     |  Coordinaten, die nicht auf dem Spielfeld sind. **Enter**    |   "Diese Coordinaten sind ausserhalb der Spielfelds."  |
+| 9.2  | **Programm gestartet** Eigabefeld für die Abfrage, ob man das Spiel wiedeholen möchte.        |  2    |    "Ungültige Eingabe" Eingabefeld für die Abfrage erscheint.         |
+| 9.3  | **Programm gestartet** Eigabefeld für die Abfrage, ob man das Spiel wiedeholen möchte.        |  Zwei    |    "Ungültige Eingabe" Eingabefeld für die Abfrage erscheint.         |
+| 10.1  |  **Programm gestartet** Die Schiffe werden am Rand angezeigt.       |  **Nichts**    |   "Platzieren Sie Ihre Schiffe"          |
+| 11.1   |Programm wird gestartet **Startsequenz erscheint**|  **Nichts**    |  Start des Spiels          |
+| 12.1   |**Programm gestartet**|  **Nichts**    | Eine Anleitung des Spiels erscheint .        |
+| 13.1   |**Programm gestartet** Eingaben werden getätigt |  **Nichts**    | Das spiel bleibt übersichtlich.|
+| 14.1   |**Programm gestartet**  |  **Nichts**    |Eingabefeld für die Namen der Spieler erscheint.|
+| 15.1   |**Programm gestartet** Gewinner wurde ermittelt  |  **Nichts**    |Gewinnersequenz erscheint.|
 
 
 
