@@ -8,7 +8,7 @@ Gruppe Candy Manser, Tanner, Lutziger, Koelewijn, Oestrich
 | ----- | ------- | ------------------------------------------------------------ |
 | 22.11.2022 | 0.0.1   | Informieren und Planen |
 | 22.11.2022      | 0.0.2     |  Planen und realisieren                                                            |
-|       | 1.0.0   |                                                              |
+| 6.11.2022      | 0.0.3   | realisieren                                                             |
 
 ## 1 Informieren
 
