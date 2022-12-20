@@ -173,4 +173,4 @@ Total: 24,75
 
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+Lernbericht: https://github.com/albertomanser/LA_1300/blob/main/Lern-Bericht.md
