@@ -114,6 +114,9 @@ Weil das Programm auf Winforms erstellt wird, haben wir uns beschlossen, uns üb
 
 Wir haben uns entschieden, dass das man die Schiffe per Koordinaten platziert.
 
+Wir haben uns entschieden in einer Partnerform zu arbeiten(Pair Programming), dass alle am Program etwas programmieren können. Dazu entschieden wir uns Gruppen zu erstellen, die einen Programmierten am Spiel und die anderen am Startbildschirm. Sobald eine Gruppe fertig ist, schliesst diese sich der anderen Gruppe an.
+Um die Schiffe zu platzieren beschlossen wir, dass wir diese durch Koordinateneingabe platzieren kann.
+
 ## 4 Realisieren
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
