@@ -17,13 +17,22 @@ Die 'Location' Eigenschaft von 'Control' ist eine Eigenschaft in Windows Forms v
 
 Die 'Location' Eigenschaft kann verwendet werden, um es auf dem Bildschirm zu positionieren, indem die X- und Y-Koordinaten festgelegt werden. Sie kann auch verwendet werden, um die Position zu ändern.
 
-Hier ist ein Beispiel dafür, wie die 'Location' Eigenschaft verwendet werden könnte, um ein Steuerelement zu positionieren:
+Hier sind zwei Beispiele dafür, wie die 'Location' Eigenschaft verwendet werden könnte, um ein Steuerelement zu positionieren:
 
 ```csharp
 Button button1 = new Button();
 button1.Location = new Point(100, 100);
 ```
 In diesem Beispiel wird ein neuer Button erstellt und dann die 'Location' Eigenschaft auf eine neue 'Point' Struktur festgelegt, die die X- und Y-Koordinaten (100, 100) enthält. Dies positioniert den Button 100 Pixel von der linken Kante und 100 Pixel von der oberen Kante des Bildschirms entfernt.
+
+```csharp
+private void button1_Click(object sender, EventArgs e)
+        {
+            button1.Location = new Point(150, 150);
+        }
+```
+
+In diesem Beispiel wird die 'Location' Eigenschaft auf eine neue 'Point' Struktur festgelegt, die die X- und Y-Koordinaten (150, 150) enthält. Dies positioniert den Button 150 Pixel von der linken Kante und 150 Pixel von der oberen Kante des Bildschirms entfernt, wenn er mit einem Click ausgelöst wird.
 
 * Eine textliche Beschreibung
 * Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
