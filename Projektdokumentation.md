@@ -145,30 +145,30 @@ Total: 24,75
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |  20.12.22    | ok        | Manser       |
-|      |  20.12.22    |         | Manser       |
-|      |  20.12.22    |         | Manser       |
-|      |  20.12.22    |         | Manser       |
-|      |  20.12.22    |         | Manser      |
-|      |  20.12.22    |         | Manser      |
-|      |  20.12.22    |         | Manser      |
-|      |  20.12.22    |         | Manser      |
-|      |  20.12.22    |         | Manser      |
-|      |  20.12.22    |         | Manser      |
-|      |  20.12.22    |         | Manser      |
-|      |  20.12.22    |         | Manser      |
-|      |  20.12.22    |         | Manser      |
-|      |  20.12.22    |         | Manser      |
-|      |  20.12.22    |         | Manser      |
-|      |  20.12.22    |         | Manser      |
-| 11.1 |  20.12.22    |    ok   | Manser      |
-| 12.1 |  20.12.22    |    ok   | Manser      |
-|      |  20.12.22    |         | Manser      |
-| 14.1 |  20.12.22    |    ok   | Manser      |
-|      |  20.12.22    |         | Manser      |
+| 1.1  |  20.12.22    | ok      | Manser       |
+| 1.2  |  20.12.22    | nicht ok| Manser       |
+| 2.1  |  20.12.22    | nicht ok| Manser       |
+| 3.1  |  20.12.22    | nicht ok| Manser       |
+| 4.1  |  20.12.22    | nicht ok| Manser      |
+| 4.2  |  20.12.22    | nicht ok| Manser      |
+| 5.1  |  20.12.22    | nicht ok| Manser      |
+| 5.2  |  20.12.22    | nicht ok| Manser      |
+| 6.1  |  20.12.22    | nicht ok| Manser      |
+| 6.2  |  20.12.22    | nicht ok| Manser      |
+| 7.1  |  20.12.22    | nicht ok| Manser      |
+| 8.1  |  20.12.22    | nicht ok| Manser      |
+| 9.1  |  20.12.22    | nicht ok| Manser      |
+| 9.2  |  20.12.22    | nicht ok| Manser      |
+| 9.3  |  20.12.22    | nicht ok| Manser      |
+| 10.1 |  20.12.22    | nicht ok| Manser      |
+| 11.1 |  20.12.22    | ok      | Manser      |
+| 12.1 |  20.12.22    | ok      | Manser      |
+| 13.1 |  20.12.22    | nicht ok| Manser      |
+| 14.1 |  20.12.22    | ok      | Manser      |
+| 15.1 |  20.12.22    | nicht ok| Manser      |
 
 
-**Die Funktionen welche wir hinzufügen konnten funktionierten alle wie geplant, Jedoch haben wir die Zeit welche die Aufgabe braucht unterschätzt und dadurch sind wir mit einem Grossteil des Spiels nicht fertig geworden.**
+**Die Funktionen welche wir hinzufügen konnten funktionierten alle wie geplant, Jedoch haben wir die Zeit welche die Aufgabe braucht unterschätzt und dadurch sind wir mit einem Grossteil des Spiels nicht fertig geworden. Die Testfälle die als "nicht ok" getestet wurden, wurden alle nicht vollständig realisiert.**
 
 
 ## 6 Auswerten
