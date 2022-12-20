@@ -45,7 +45,7 @@ Das GIF sollte den angewendeten 'Code' in Visual Studio nochmals verdeutlichen. 
 # Reflektion zum Arbeitsprozess
 
 
-Unsere Gruppe konnte mittelmässig nach IPERKA vorgehen, was uns vieles erleichtert hat und aber auch Probleme schuf. Die Planung haben wir sofern auch gut umsetzten können. 
+Unsere Gruppe konnte mittelmässig nach IPERKA vorgehen, was uns vieles erleichtert hat und aber auch Probleme schuf. Die Planung haben wir sofern gut umsetzten können. 
 
 
 Wir sind mit dem Implementieren nicht ganz fertig geworden, was aber nicht allzu schlimm ist, denn man lernt aus Fehlern. Daher haben wir gelernt, dass wir unsere Erwartungen ein wenig zu hoch gesetzt haben. 
