@@ -109,7 +109,8 @@ Total:
 
 ## 3 Entscheiden
 
-Wir Entshieden uns das wir 
+Wir haben uns entschieden, dass Projekt wie geplant durchzuführen. Bei Zeitknappheit, werden wir versuchen das nötigste für das Programm zu erstellen.
+Weil das Programm auf Winforms erstellt wird, haben wir uns beschlossen, uns über Winforms zu Informieren.
 
 ## 4 Realisieren
 
