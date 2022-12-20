@@ -145,10 +145,23 @@ Total: 24,75
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  |  20.12.22    | ok        | Manser       |
+| 11.1 |  20.12.22    | ok        | Manser       |
+| 12.1 |  20.12.22    | ok        | Manser       |
+| 14.1 |  20.12.22    | ok        | Manser       |
+|      |  20.12.22    |         | Manser      |
+|      |  20.12.22    |         | Manser      |
+|      |  20.12.22    |         | Manser      |
+|      |  20.12.22    |         | Manser      |
+|      |  20.12.22    |         | Manser      |
+|      |  20.12.22    |         | Manser      |
+|      |  20.12.22    |         | Manser      |
+|      |  20.12.22    |         | Manser      |
+|      |  20.12.22    |         | Manser      |
+|      |  20.12.22    |         | Manser      |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+**Die Funktionen welche wir hinzufügen konnten funktionierten alle wie geplant, Jedoch haben wir die Zeit welche die Aufgabe braucht unterschätzt und dadurch sind wir mit einem Grossteil des Spiels nicht fertig wurden.**
+Die Testfälle 2.1 - 10.1 sowohl wie 13.1 und 15.1 konnten wir nicht testen da diese Userstories nicht realisiert wurden.
 
 ## 6 Auswerten
 
