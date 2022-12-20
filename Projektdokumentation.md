@@ -111,6 +111,7 @@ Total: 20,15
 
 Wir haben uns entschieden, dass Projekt wie geplant durchzuführen. Bei Zeitknappheit, werden wir versuchen das nötigste für das Programm zu erstellen.
 Weil das Programm auf Winforms erstellt wird, haben wir uns beschlossen, uns über Winforms zu Informieren.
+
 Wir haben uns entschieden das das man die schiffe per Koordinaten platziert.
 
 ## 4 Realisieren
