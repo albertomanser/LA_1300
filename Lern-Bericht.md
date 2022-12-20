@@ -34,10 +34,7 @@ private void button1_Click(object sender, EventArgs e)
 
 In diesem Beispiel wird die 'Location' Eigenschaft auf eine neue 'Point' Struktur festgelegt, die die X- und Y-Koordinaten (150, 150) enthält. Dies positioniert den Button 150 Pixel von der linken Kante und 150 Pixel von der oberen Kante des Bildschirms entfernt, wenn er mit einem Click ausgelöst wird.
 
-* Eine textliche Beschreibung
-* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
-* Ein gut dokumentierter Code-Fetzen
-* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
+![psdbg,ülc](https://user-images.githubusercontent.com/110892283/208625368-7119ce82-d0b8-4699-92bb-be9b522ece0a.gif)
 
 ## Verifikation
 
