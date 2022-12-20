@@ -100,7 +100,7 @@ In diesem Projekt programmieren wir mithifle von Winforms ein "Schiffeversenken"
 |10.A|13.12.2022  | Oestrich |Gewinnersequenz & nochmal Spielen|1|
 |11.A| 06.12.2022 | Tanner | Nickname | 0.5|
 | 12.A |    13.12.2022|      Alle  |Ergänzungen des Programmierens|       1        |
-| 13.A |    20.12.2022|      Oestrich  |        Testprotokoll   |       1        |
+| 13.A |    20.12.2022|      Manser  |        Testprotokoll   |       1        |
 | 14.A| 20.12.2022|      Alle    |        Lernbericht / Dokumentation   |       1.45       |
 
 Total: 20,15
@@ -132,7 +132,7 @@ Weil das Programm auf Winforms erstellt wird, haben wir uns beschlossen, uns üb
 | 10.A  |   |    |   |    |
 | 11.A   |29.11.2022   |Tanner    | 0.5   | 0.75    |
 | 12.A  |   |    |   |    |
-| 13.A  |  20.12.2022 |  Oestrich  |  1 |  1.25  |
+| 13.A  |  20.12.2022 |  Manser  |  1 |  1.25  |
 | 14.A  | 20.12.2022 | Alle   | 2  |  2  |
 
 Total: 23,25
