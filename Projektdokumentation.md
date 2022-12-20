@@ -112,7 +112,7 @@ Total: 20,15
 Wir haben uns entschieden, dass Projekt wie geplant durchzuführen. Bei Zeitknappheit, werden wir versuchen das nötigste für das Programm zu erstellen.
 Weil das Programm auf Winforms erstellt wird, haben wir uns beschlossen, uns über Winforms zu Informieren.
 
-Nach einer kurzen besprechung entschieden wir uns, dass das man die Schiffe per Koordinaten platziert.
+Nach einer kurzen Diskussion haben wir beschlossen, dass wir die Schiffe anhand von Koordinaten positionieren werden.
 
 Nach einer kurzen überlegung am start des Projektes, entschieden wir uns in Partnerform zu arbeiten(Pair Programming), dass alle am Program etwas programmieren können. Dazu entschieden wir uns Gruppen zu erstellen, die einen Programmierten am Spiel und die anderen am Startbildschirm. Sobald eine Gruppe fertig ist, schliesst diese sich der anderen Gruppe an.
 Um die Schiffe zu platzieren beschlossen wir, dass wir diese durch Koordinateneingabe platzieren kann.
