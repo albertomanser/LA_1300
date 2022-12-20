@@ -17,6 +17,10 @@ Die 'Location' Eigenschaft kann verwendet werden, um das Steuerelement auf dem B
 
 Hier ist ein Beispiel dafür, wie die 'Location' Eigenschaft verwendet werden könnte, um ein Steuerelement zu positionieren:
 
+```
+Button button1 = new Button();
+button1.Location = new Point(100, 100);
+```
 
 
 * Eine textliche Beschreibung
