@@ -99,11 +99,11 @@ In diesem Projekt programmieren wir mithifle von Winforms ein "Schiffeversenken"
 |9.A|  29.11.2022| Tanner |Spielerklärung & übersichtliches Spiel|1.5|
 |10.A|13.12.2022  | Oestrich |Gewinnersequenz & nochmal Spielen|1|
 |11.A| 06.12.2022 | Tanner | Nickname | 0.5|
-| 12.A |    13.12.2022|      Alle  |Ergänzungen des Programmierens|       5        |
+| 12.A |    13.12.2022|      Alle  |Ergänzungen des Programmierens|       1        |
 | 13.A |    20.12.2022|      Oestrich  |        Testprotokoll   |       1        |
 | 14.A| 20.12.2022|      Alle    |        Lernbericht / Dokumentation   |       1.45       |
 
-Total: 
+Total: 20,15
 
 **1 Arbeitspaket ist etwa 45 Minuten**
 
@@ -116,27 +116,26 @@ Weil das Programm auf Winforms erstellt wird, haben wir uns beschlossen, uns üb
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  | 22.11.2022      | Manser & Koelewijn          | 1               | 1                |
-| 1.B | 22.11.2022      |Oestrich    1.5 | 0.5              | 0.75                  |
-| 1.C | 22.11.2022 | Lutziger | 0.75 | 0.8 |
-| 2.A | 22.11.2022 | Manser & Koelewijn | 0.45 | 0.5 |
-| 3.A | 22.11.2022 | Alle | 1.5 | 1 |
-| 4.A  |  29.11.2022 | Manser   | 1.5  |  4  |
-| 4.B  | 29.11.2022   | Oestrich    | 1   | 2.5    |
+| 1.A  | 22.11.2022      | Manser & Koelewijn          | 1               | 1.5                |
+| 1.B | 22.11.2022      |Oestrich    1.5 | 0.5              | 1.5                |
+| 1.C | 22.11.2022 | Lutziger | 0.75 | 1.25 |
+| 2.A | 22.11.2022 | Manser & Koelewijn | 0.45 | 1 |
+| 3.A | 22.11.2022 | Alle | 1.5 | 2 |
+| 4.A  |  29.11.2022 | Manser   | 1.5  |  5  |
+| 4.B  | 29.11.2022   | Oestrich    | 1   | 3    |
 | 5.A  |   |    |   |    |
 | 6.A  |   |    |   |    |
 | 6.B  |   |    |   |    |
 | 7.A  |   |    |   |    |
-| 8.A  | 29.11.2022   | Oestrich   |  1   | 0.5   |
-| 9.A  | 29.11.2022  | Tanner    | 1.5   | 1   |
+| 8.A  | 29.11.2022   | Oestrich   |  1   | 2   |
+| 9.A  | 29.11.2022  | Tanner    | 1.5   |  2 |
 | 10.A  |   |    |   |    |
-| 11.A   |29.11.2022   |Tanner    | 0.5   | 0.5    |
+| 11.A   |29.11.2022   |Tanner    | 0.5   | 0.75    |
 | 12.A  |   |    |   |    |
 | 13.A  |  20.12.2022 |  Oestrich  |  1 |  1.25  |
 | 14.A  | 20.12.2022 | Alle   | 2  |  2  |
 
-
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+Total: 23,25
 
 ## 5 Kontrollieren
 
@@ -148,15 +147,6 @@ Weil das Programm auf Winforms erstellt wird, haben wir uns beschlossen, uns üb
 | ...  |       |          |        |
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
-
-### 5.2 Exploratives Testen
-
-| BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
-| ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
-
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
 
 ## 6 Auswerten
 
