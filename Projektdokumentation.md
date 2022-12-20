@@ -169,7 +169,7 @@ Total: 24,75
 
 
 **Die Funktionen welche wir hinzufügen konnten funktionierten alle wie geplant, Jedoch haben wir die Zeit welche die Aufgabe braucht unterschätzt und dadurch sind wir mit einem Grossteil des Spiels nicht fertig geworden.**
-Die Testfälle 2.1 - 10.1 sowohl wie 13.1 und 15.1 konnten wir nicht testen da diese Userstories nicht realisiert wurden.
+
 
 ## 6 Auswerten
 
