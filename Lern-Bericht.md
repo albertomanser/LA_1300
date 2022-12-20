@@ -10,7 +10,7 @@ In unserem Projekt, bei dem wir zum ersten mal mit WinForms gearbeitet haben, ve
 Wir haben in diesem Projekt gelernt, wie man in WinForms die Control.Location Eigenschaft benutzt.
 ## Definition
 
-Control.Location ruft die Koordinaten der oberen linken Ecke des Steuerelements relativ zur oberen linken Ecke seines Containers ab oder legt diese fest.
+Control.Location ruft die Koordinaten der oberen linken Ecke des Steuerelements (z.B Buttons) relativ zur oberen linken Ecke seines Containers ab oder legt diese fest.
 ## Beschreibung
 
 Die 'Location' Eigenschaft von 'Control' ist eine Eigenschaft in Windows Forms von Microsoft, die die Position eines Steuerelements auf dem Bildschirm angibt. Die Eigenschaft ist vom Typ 'Point', der ein X- und Y-Koordinatensystem verwendet, um die Position auf einer 2D-Ebene zu beschreiben.
