@@ -51,4 +51,4 @@ Unsere Gruppe konnte mittelmässig nach IPERKA vorgehen, was uns vieles erleicht
 Wir sind mit dem Implementieren nicht ganz fertig geworden, was aber nicht allzu schlimm ist, denn man lernt aus Fehlern. Daher haben wir gelernt, dass wir unsere Erwartungen ein wenig zu hoch gesetzt haben. 
 
 **VBV**: 
-Bei dem nächsten Projekt, sollten wir realistischer denken und uns gegebenfalls dazu auch besser vorbereiten. Die Erwartungen müssen so gesetzt sein, dass sie auch wirklich erfüllt werden können. 
+Bei dem nächsten Projekt sollten wir realistischer denken und uns gegebenenfalls dazu auch besser vorbereiten. Die Erwartungen müssen so gesetzt sein, dass sie auch wirklich erfüllt werden können. 
