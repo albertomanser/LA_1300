@@ -1,17 +1,23 @@
 # Lern-Bericht
-✍️ ggf. Ihr Gruppenname und Ihre Gruppenmitglieder
+Gruppe Candy (Alberto Manser, Cyril Lutziger, Salma Tanner, Pascal Oestrich, Keanu Koelewijn)
 
 ## Einleitung
 
-✍️ Ein Satz, worum es in dem Projekt ging. Muss für einen externen Leser einfach zu verstehen sein.
+In unserem Projekt bei dem wir zum ersten mal mit WinForms gearbeitet haben, versuchten wir ein Schiffeversenken Spiel zu implementieren und haben viel Neues gelernt.
 
 ## Was habe ich gelernt?
 
-✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
+Wir Erklären in diesem Lern Bericht wie man in WinForms die control.location Eigenschaft benutzt.
 
 ## Beschreibung
 
-✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
+Die 'Location' Eigenschaft von 'Control' ist eine Eigenschaft in der Windows Forms-Benutzeroberflächenbibliothek von Microsoft, die die Position eines Steuerelements innerhalb seines Elternsteuerelements oder auf dem Bildschirm angibt. Die Eigenschaft ist vom Typ 'Point', der ein X- und Y-Koordinatensystem verwendet, um die Position auf einer 2D-Ebene zu beschreiben.
+
+Die 'Location' Eigenschaft kann verwendet werden, um das Steuerelement auf dem Bildschirm zu positionieren, indem die X- und Y-Koordinaten festgelegt werden. Sie kann auch verwendet werden, um die Position eines Steuerelements innerhalb seines Elternsteuerelements zu ändern.
+
+Hier ist ein Beispiel dafür, wie die 'Location' Eigenschaft verwendet werden könnte, um ein Steuerelement zu positionieren:
+
+
 
 * Eine textliche Beschreibung
 * Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
