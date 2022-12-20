@@ -6,11 +6,11 @@ Gruppe Candy Manser, Tanner, Lutziger, Koelewijn, Oestrich
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-| 22.11.2022 | 0.0.0   | Informieren und Planen: Heute haben wir unser Programm geplant (PAP) und uns über Winforms informiert.|
+| 22.11.2022 | 0.0.0   | Informieren und Planen: Heute haben wir unser Programm geplant (PAP), (Use Case-Diagramm) und uns über Winforms informiert.|
 | 29.11.2022      | 0.1.0     |  Planen und realisieren: An diesem Tag plante wir die jeweiligen Arbeitsblöcke und fingen an den Startscreen zu Programmieren.|
 | 6.12.2022      | 0.2.0   | realisieren: Heute haben wir den Startscrenn fertig programmiert und haben mit der Funktion (die Schiffe zu platzieren) angefangen.|
 | 13.12.2022      | 0.3.0   | realisieren: Wir versuchten heute die Funktion (Schiffe platzieren) fertig zu stellen |
-| 20.12.2022      | 0.4.0   | realisieren: Heute haben wir die Funktion (Schiffe platzieren) ferig programmiert.                                                            |
+| 20.12.2022      | 0.4.0   | realisieren: Heute haben wir die Funktion (Schiffe platzieren) ferig programmiert. |
 
 ## 1 Informieren
 
