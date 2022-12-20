@@ -7,7 +7,7 @@ In unserem Projekt, bei dem wir zum ersten mal mit WinForms gearbeitet haben, ve
 
 ## Was habe ich gelernt?
 
-Wir erklären in diesem Lern-Bericht wie man in WinForms die Control.Location Eigenschaft benutzt.
+Wir haben in diesem Projekt gelernt, wie man in WinForms die Control.Location Eigenschaft benutzt.
 ## Definition
 
 Control.Location ruft die Koordinaten der oberen linken Ecke des Steuerelements relativ zur oberen linken Ecke seines Containers ab oder legt diese fest.
@@ -40,7 +40,7 @@ In diesem Beispiel wird deer selbe Vorgang wie oben schon gezeigt, vereinfacht d
 
 In dem bündigen Text erklären wir das Prinzip von der Eigenschaft 'Location' und wie diese angewendet wird. 
 Der Code-Schnipsel zeigt auf, was wir mit dem Erklärten definieren wollen. Es hilft dabei, dies besser zu verstehen.
-Das GIF sollte den angewendeten 'Code' in Visual Studio nochmals verdeutlichen. Es zeigt, wie wir gearbeitet haben. 
+Das GIF sollte den angewendeten 'Code' in Visual Studio nochmals verdeutlichen. Es zeigt, wie der Code in der Praxis aussieht. 
 
 # Reflektion zum Arbeitsprozess
 
@@ -48,7 +48,7 @@ Das GIF sollte den angewendeten 'Code' in Visual Studio nochmals verdeutlichen. 
 Unsere Gruppe konnte gut nach IPERKA vorgehen, was uns vieles erleichtert hat. Die Planung haben wir sofern auch gut umsetzten können. 
 
 
-wir sind mit dem Implementieren nicht ganz fertig geworden, was aber nicht allzu schlimm ist, denn man lernt aus Fehlern. Daher haben wir gelernt, dass wir unsere Erwartungen ein wenig zu hoch gesetzt haben. 
+Wir sind mit dem Implementieren nicht ganz fertig geworden, was aber nicht allzu schlimm ist, denn man lernt aus Fehlern. Daher haben wir gelernt, dass wir unsere Erwartungen ein wenig zu hoch gesetzt haben. 
 
 **VBV**: 
 Bei dem nächsten Projekt, sollten wir realistischer denken und uns gegebenfalls dazu auch besser vorbereiten. Die Erwartungen müssen so gesetzt sein, dass sie auch wirklich erfüllt werden können. 
