@@ -88,7 +88,7 @@ In diesem Projekt programmieren wir mithifle von Winforms ein "Schiffeversenken"
 | 2.A |    22.11.2022|      Manser & Koelewijn  |        Planung     |       0.45        |
 | 3.A |   22.11.2022|      Alle    |        Entscheidung|       1.5        |
 |4.A| 29.11.2022 | Manser | Boote platzieren | 1.5|
-|4.B|06.12.2022  | Manser | Startsequenz | 1|
+|4.B|06.12.2022  | Oestrich | Startsequenz | 1|
 |5.A| 29.11.2022| Lutziger |Wechsel Spieler 1 & 2|1.5|
 |6.A|29.11.2022| Koelewijn  |Schiessen & Rückmeldung | 1.5|
 |6.B| 06.12.2022 | Koelewijn |Gewinner Verlierer und gebrauchte Zeit | 1.5| 
@@ -98,7 +98,7 @@ In diesem Projekt programmieren wir mithifle von Winforms ein "Schiffeversenken"
 |10.A|13.12.2022  | Oestrich |Gewinnersequenz & nochmal Spielen|1|
 |11.A| 06.12.2022 | Tanner | Nickname | 0.5|
 | 12.A |    13.12.2022|      Alle  |Ergänzungen des Programmierens|       5        |
-| 13.A |    20.12.2022|      Tanner   |        Testprotokoll   |       1        |
+| 13.A |    20.12.2022|      Oestrich  |        Testprotokoll   |       1        |
 | 14.A| 20.12.2022|      Alle    |        Lernbericht / Dokumentation   |       1.45       |
 
 Total: 
@@ -113,13 +113,13 @@ Total:
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  | 22.11.2022      | Manser & Koelewijn          | 1               | 0.5                |
+| 1.A  | 22.11.2022      | Manser & Koelewijn          | 1               | 1                |
 | 1.B | 22.11.2022      |Oestrich    1.5 | 0.5              | 0.75                  |
-| 1.C | 22.11.2022 | Lutziger | 0.75 | 0.5 |
+| 1.C | 22.11.2022 | Lutziger | 0.75 | 0.8 |
 | 2.A | 22.11.2022 | Manser & Koelewijn | 0.45 | 0.5 |
 | 3.A | 22.11.2022 | Alle | 1.5 | 1 |
-| 4.A  |   |    |   |    |
-| 4.B  | 29.11.2022   | Manser    | 1   | 1.5    |
+| 4.A  |  29.11.2022 | Manser   | 1.5  |  4  |
+| 4.B  | 29.11.2022   | Oestrich    | 1   | 2.5    |
 | 5.A  |   |    |   |    |
 | 6.A  |   |    |   |    |
 | 6.B  |   |    |   |    |
@@ -129,9 +129,8 @@ Total:
 | 10.A  |   |    |   |    |
 | 11.A   |29.11.2022   |Tanner    | 0.5   | 0.5    |
 | 12.A  |   |    |   |    |
-| 13.A  |   |    |   |    |
-| 14.A  |   |    |   |    |
-
+| 13.A  |  20.12.2022 |  Oestrich  |  1 |  1.25  |
+| 14.A  | 20.12.2022 | Alle   | 2  |  2  |
 
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
